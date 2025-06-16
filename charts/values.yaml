@@ -1,0 +1,10 @@
+image:
+  name: ghcr.io/sgavrylenko/helm-build
+
+resources:
+  requests:
+    cpu: 50m
+    memory: 32Mi
+  limits:
+    cpu: 64m
+    memory: 64Mi

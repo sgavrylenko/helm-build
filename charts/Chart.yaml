@@ -1,0 +1,5 @@
+apiVersion: v2
+appVersion: "0.1.0"
+description: Testing github action with helm building
+name: helm-build
+version: 0.1.0
